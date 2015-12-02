@@ -1,0 +1,13 @@
+{
+  "name": "ng-pdf2",
+  "version": "0.0.1",
+  "description": "",
+  "devDependencies": {
+    "traceur": "^0.0.93",
+    "systemjs": "^0.19.6",
+    "http-server": "0.8.0",
+    "typescript": "1.6.2",
+    "angular2" : "^2.0.0-alpha.47",
+    "pdfjs-dist": "^1.3.48"
+  }
+}
